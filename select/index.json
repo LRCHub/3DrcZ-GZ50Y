@@ -1,16 +1,16 @@
 {
   "version": 1,
   "base_track": "SWEETEST BITE",
-  "base_artist": "シーズ",
-  "createdAt": "2026-01-14T05:41:31.984023Z",
+  "base_artist": "SHHis",
+  "createdAt": "2026-01-14T05:41:54.021352Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "SWEETEST BITE",
-      "artist": "シーズ",
+      "artist": "SHHis",
       "has_synced": false,
-      "path": "select/pl_01_SWEETEST_BITE_シーズ.txt"
+      "path": "select/pl_01_SWEETEST_BITE_SHHis.txt"
     }
   ]
 }
